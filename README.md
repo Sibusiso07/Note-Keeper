@@ -43,12 +43,12 @@ Click the "+" button to add the note.
 Delete a Note:
 Click on the delete button to remove the note.
 
-Contributing
+Contributing:
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
-Author
+Author:
 Sibusiso Simelane
 
-Acknowledgements
+Acknowledgements:
 Dr. Angela Yu: Guidance and inspiration from the Web Development course on Udemy.
 Thank you for using Note Keeper! If you have any questions or feedback, please don't hesitate to reach out.
